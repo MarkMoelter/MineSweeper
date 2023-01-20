@@ -1,0 +1,2 @@
+HEIGHT = 480
+WIDTH = HEIGHT * 2
